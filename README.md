@@ -1,5 +1,12 @@
-# 404 Not Found Page
 
-If the user clicks on a link that is not functional he will be directed to this page.
+# 404 Not Found
+
+Here is a 404 page that is a little bit funny 
+
+
+## 🔗 Links
+[![Link]()](https://saidi-naim.github.io/404-page/)
+
+
 
 ## Thanks
